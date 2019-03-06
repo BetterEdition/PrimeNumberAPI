@@ -1,0 +1,14 @@
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\bin\Debug\netcoreapp2.2\PrimeNumberAPI.deps.json
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\bin\Debug\netcoreapp2.2\PrimeNumberAPI.runtimeconfig.json
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\bin\Debug\netcoreapp2.2\PrimeNumberAPI.runtimeconfig.dev.json
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\bin\Debug\netcoreapp2.2\PrimeNumberAPI.dll
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.csprojAssemblyReference.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.RazorAssemblyInfo.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.RazorAssemblyInfo.cs
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.AssemblyInfoInputs.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.AssemblyInfo.cs
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\bin\Debug\netcoreapp2.2\PrimeNumberAPI.pdb
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.dll
+C:\Users\Jespe\source\repos\PrimeNumberAPI\PrimeNumberAPI\obj\Debug\netcoreapp2.2\PrimeNumberAPI.pdb

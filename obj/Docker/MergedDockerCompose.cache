@@ -1,0 +1,16 @@
+services:
+  primenumberapi:
+    build:
+      context: C:\Users\Jespe\source\repos\PrimeNumberAPI
+      dockerfile: PrimeNumberAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44395'
+      ASPNETCORE_URLS: https://+:443;
+    image: primenumberapi
+    ports:
+    - target: 44395
+    volumes:
+    - C:\Users\Jespe\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Jespe\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

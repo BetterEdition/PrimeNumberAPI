@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  primenumberapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;
+      - ASPNETCORE_HTTPS_PORT=44395
+    ports:
+      - "44395"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro

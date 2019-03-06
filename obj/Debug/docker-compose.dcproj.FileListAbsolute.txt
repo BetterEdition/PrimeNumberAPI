@@ -1,0 +1,5 @@
+C:\Users\Jespe\source\repos\PrimeNumberAPI\bin\Debug\PrimeNumberAPI.dll
+C:\Users\Jespe\source\repos\PrimeNumberAPI\bin\Debug\PrimeNumberAPI.pdb
+C:\Users\Jespe\source\repos\PrimeNumberAPI\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Jespe\source\repos\PrimeNumberAPI\obj\Debug\docker-compose.dcproj.CopyComplete
